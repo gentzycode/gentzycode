@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LordMorris</h1>
 <h3 align="center">...it's all about the code!</h3>
 
-- 🔭 I’m currently working on **An Intelligent Tokens Exchange Portal (and Wallet (Exex.ai))**
+- 🔭 I’m currently working on **An Intelligent Tokens Exchange Portal (and Wallet (Exex..))**
 
 - 💬 Ask me about **react, vue, Tensorflow, Pytorch, C++, Python**
 
