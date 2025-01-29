@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An Intelligent Tokens Exchange Portal (and Wallet (Exex..))**
 
-- 💬 Ask me about **react, vue, Tensorflow, Pytorch, C++, Python**
+- 💬 Ask me about **react, vue, GO, C#, nodeJs, Tensorflow, Pytorch, C++, Python**
 
 - 📫 How to reach me **gentzycode@live.com**
 
