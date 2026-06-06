@@ -272,14 +272,31 @@ const lordMorris: Engineer & Researcher = {
 <!--                           GITHUB STATS                           -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eW/giphy.gif" width="28"> &nbsp;The Numbers
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eW/giphy.gif" width="28"> &nbsp;Capability Matrix
+
+```bash
+$ whoami
+> LordMorris — Principal Engineer & Security Researcher
+
+$ cat ~/.loadout
+> Full-Stack · Digital Forensics · Cloud/DevOps · AI/ML · Web3
+> Government-grade platforms · 65k+ user systems · zero-iteration delivery
+
+$ ./engage --mode production
+> Ship it. Break it ethically. Make it unbreakable.
+```
+
+```text
+Cybersecurity / Digital Forensics   ███████████████████░  97%
+Full-Stack Engineering              ██████████████████░░  94%
+Cloud · DevOps · Infrastructure     █████████████████░░░  90%
+AI / ML · LLM Systems               ████████████████░░░░  85%
+Web3 · Smart Contracts              ██████████████░░░░░░  78%
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gentzycode&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=CCD6F6&bg_color=0A192F" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentzycode&layout=compact&hide_border=true&title_color=FFD700&text_color=CCD6F6&bg_color=0A192F&langs_count=10" />
-
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=gentzycode&hide_border=true&background=0A192F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=CCD6F6&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6&dayNums=CCD6F6" />
 
